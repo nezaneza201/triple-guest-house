@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap URL will be added after the free production URL is created.
